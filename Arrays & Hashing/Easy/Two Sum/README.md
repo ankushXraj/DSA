@@ -8,12 +8,12 @@
 | **Solved On** | August 11, 2026 |
 | **Tags** | Array, Hash Table |
 | **Link** | [View Problem](https://leetcode.com/problems/two-sum/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.6 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 47.3 MB |
 
 ## Approach
 
-FIRST CODE PROBLEM 
+HFYHGFEYFGEIUDHEDUEHDUEHD
 
 ## Problem Description
 
