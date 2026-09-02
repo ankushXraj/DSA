@@ -8,8 +8,8 @@
 | **Solved On** | September 2, 2026 |
 | **Tags** | Hash Table, String |
 | **Link** | [View Problem](https://leetcode.com/problems/isomorphic-strings/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.5 MB |
+| **Runtime** | 25 ms |
+| **Memory** | 43.9 MB |
 
 ## Problem Description
 
