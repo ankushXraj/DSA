@@ -8,8 +8,8 @@
 | **Solved On** | September 3, 2026 |
 | **Tags** | Two Pointers, String |
 | **Link** | [View Problem](https://leetcode.com/problems/long-pressed-name/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.5 MB |
+| **Runtime** | 1 ms |
+| **Memory** | 42.9 MB |
 
 ## Problem Description
 
