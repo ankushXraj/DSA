@@ -14,6 +14,7 @@ All solved problems organized by pattern/category.
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 
 ## Two Pointers
+- [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 
