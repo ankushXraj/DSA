@@ -25,3 +25,6 @@ All solved problems organized by pattern/category.
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
+
+## Stack
+- [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
