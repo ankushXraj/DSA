@@ -28,4 +28,5 @@ All solved problems organized by pattern/category.
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 
 ## Stack
+- [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
